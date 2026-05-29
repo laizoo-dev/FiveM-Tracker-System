@@ -1,0 +1,33 @@
+{
+  "name": "fivem-tracker-system",
+  "version": "1.0.0",
+  "description": "Official SDK for integrating FiveM servers with the Algerian protection and player tracking system.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fivem",
+    "blacklist",
+    "algeria",
+    "tracker",
+    "discord-bot",
+    "security",
+    "api-wrapper",
+    "player-history"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laizoo-dev/fivem-tracker-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laizoo-dev/fivem-tracker-system/issues"
+  },
+  "homepage": "https://github.com/laizoo-dev/fivem-tracker-system#readme"
+}
